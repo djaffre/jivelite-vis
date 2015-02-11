@@ -1,0 +1,166 @@
+﻿
+WEATHER_MENU
+	EN	Weather
+	DE	Wetter
+	DA	Vejret
+	IT	Meteo
+	SV	Väder
+
+WEATHER_SETTINGS
+	EN	Weather Settings
+	DE	Wetter Einstellungen
+	DA	Indstillinger for Vejr
+	IT	Impostazioni meteo
+	SV	Väderinställningar
+
+LOADING_WEATHER
+	EN	Loading\nWeather\n...
+	DE	Lade\nWetterdaten\n...
+	DA	Henter\nVejr\n...
+	IT	Caricamento\nMeteo\n...
+	SV	Laddar\nVäderdara\n...
+
+NO_WEATHER_DATA_LINE1
+	EN	no weather-data
+	DE	keine Wetterdaten
+	DA	Ingen vejrdata
+	IT	nessuna informazione meteo
+	SV	Inget väderdata
+
+NO_WEATHER_DATA_LINE2
+	EN	available
+	DE	verfügbar
+	DA	Tilgængelig
+	IT	disponibile
+	SV	tillgänglig
+
+SETUP_LOCATION
+	EN	Location
+	DE	Standort
+	DA	Lokation
+	IT	Luogo
+	SV	Ort
+
+SETUP_TEMPERATURE
+	EN	Temperature Scale
+	DE	Temparatur Einheit 
+	DA	Temperatur skala
+	IT	Scala Temperatura
+	SV	Tempraturskala
+
+SETUP_INFOLINE
+	EN	Information Display
+	DE	Informationszeile
+	DA	Informations display
+	IT	Visualizzazione informazioni
+	SV	Informationsdisplay
+
+SETUP_INFOLINE_TIME
+	EN	Time
+	DE	Uhrzeit
+	DA	Tid
+	IT	Ora
+	SV	Tid
+
+SETUP_INFOLINE_DATE
+	EN	Date
+	DE	Datum
+	DA	Dato
+	IT	Data
+	SV	Datum
+
+SETUP_INFOLINE_OBSERVATION_TIME
+	EN	Time of observation
+	DE	Zeitpunkt der Wetterdaten
+	DA	Tidspunkt for observation
+	IT	Ora della osservazione
+	SV	Tid för observation
+
+
+SETUP_PWS
+	EN	ID Personal Weather Station (optional)
+	DE	ID Wetter-Station (optional)
+	DA	ID PWS (optional)
+	IT	ID PWS (optional)
+	SV	ID PWS (optional)
+
+
+WEATHER_AGO
+	EN	ago
+	DE	alt
+	DA	siden
+	IT	fa
+	SV	sedan
+
+WEATHER_MINUTES
+	EN	min
+	DE	min
+	DA	min
+	IT	min
+	SV	min
+
+WEATHER_HOURS
+	EN	hours
+	DE	Stunden
+	DA	Timer
+	IT	ore
+	SV	timmar
+
+MON
+	EN	Mon
+	DE	Mo
+	DA	Man
+	IT	Lun
+	SV	Mån
+
+TUE
+	EN	Tue
+	DE	Di
+	DA	Tir
+	IT	Mar
+	SV	Tis
+
+WED
+	EN	Wed
+	DE	Mi
+	DA	Ons
+	IT	Mer
+	SV	Ons
+
+THU
+	EN	Thu
+	DE	Do
+	DA	Tor
+	IT	Gio
+	SV	Tors
+
+FRI
+	EN	Fri
+	DE	Fr
+	DA	Fre
+	IT	Ven
+	SV	Fre
+
+SAT
+	EN	Sat
+	DE	Sa
+	DA	Lør
+	IT	Sab
+	SV	Lör
+
+SUN
+	EN	Sun
+	DE	So
+	DA	Søn
+	IT	Dom
+	SV	Sön
+
+MON
+	EN	Mon
+	DE	Mon
+	DA	Man
+	IT	Lun
+	SV	Mån	
+
+
+	

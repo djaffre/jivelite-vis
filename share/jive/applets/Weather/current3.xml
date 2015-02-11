@@ -1,0 +1,75 @@
+<current_observation>
+		<credit>Weather Underground NOAA Weather Station</credit>
+		<credit_URL>http://wunderground.com/</credit_URL>
+		<termsofservice link="http://www.wunderground.com/members/tos.asp#api"/>
+		<image>
+		<url>http://icons.wunderground.com/graphics/wu2/logo_130x80.png</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/</link>
+		</image>
+  <display_location>
+  <full>Tegel, Germany</full>
+  <city>Tegel</city>
+  <state/>
+  <state_name>Germany</state_name>
+  <country>DL</country>
+  <country_iso3166>DE</country_iso3166>
+  <zip>00000</zip>
+  <latitude>52.55972290</latitude>
+  <longitude>13.28777790</longitude>
+  <elevation>34.00000000 ft</elevation>
+  </display_location>
+		<observation_location>
+		<full>Berlin Tegel, </full>
+		<city>Berlin Tegel</city>
+		<state/>
+		<country>DL</country>
+		<country_iso3166>DE</country_iso3166>
+		<latitude>52.56999969</latitude>
+		<longitude>13.31999969</longitude>
+		<elevation>121 ft</elevation>
+		</observation_location>
+		<station_id>EDDT</station_id>
+		<observation_time>Last Updated on September 24, 3:50 PM CEST</observation_time>
+		<observation_time_rfc822>Thu, 24 September 2009 13:50:00 GMT</observation_time_rfc822>
+		<observation_epoch>1253800200</observation_epoch>
+		<local_time>September 24, 4:09 PM CEST</local_time>
+		<local_time_rfc822>Thu, 24 September 2009 14:09:09 GMT</local_time_rfc822>
+		<local_epoch>1253801349</local_epoch>
+		<weather>Partly Cloudy</weather>
+		<temperature_string>66 F (19 C)</temperature_string>
+		<temp_f>66</temp_f>
+		<temp_c>19</temp_c>
+		<relative_humidity>43%</relative_humidity>
+		<wind_string>From the West at 14 MPH </wind_string>
+		<wind_dir>West</wind_dir>
+		<wind_degrees>280</wind_degrees>
+		<wind_mph>14</wind_mph>
+		<wind_gust_mph/>
+		<pressure_string>30.12 in (1020 mb)</pressure_string>
+		<pressure_mb>1020</pressure_mb>
+		<pressure_in>30.12</pressure_in>
+		<dewpoint_string>43 F (6 C)</dewpoint_string>
+		<dewpoint_f>43</dewpoint_f>
+		<dewpoint_c>6</dewpoint_c>
+		
+		<heat_index_string>NA</heat_index_string>
+		<heat_index_f>NA</heat_index_f>
+		<heat_index_c>NA</heat_index_c>
+		
+		
+		<windchill_string>NA</windchill_string>
+		<windchill_f>NA</windchill_f>
+		<windchill_c>NA</windchill_c>
+		
+		<visibility_mi>6.2</visibility_mi>
+		<visibility_km>10.0</visibility_km>
+
+		<icon_url_base>http://icons.wunderground.com/graphics/conds/</icon_url_base>
+		<icon_url_name>.GIF</icon_url_name>
+		<icon>partlycloudy</icon>
+		<forecast_url>http://www.wunderground.com/global/stations/10382.html</forecast_url>
+		<history_url>http://www.wunderground.com/history/airport/EDDT/2009/9/24/DailyHistory.html</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=52.56999969,13.31999969</ob_url>
+	</current_observation>
+<!-- 0.034:0 -->

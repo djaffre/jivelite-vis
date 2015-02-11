@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<forecast>
+	<termsofservice link="http://www.wunderground.com/members/tos.asp#api" />
+	<txt_forecast>
+		<date>3:11 PM CDT</date>
+		<number>2</number>
+		<forecastday>
+			<period>1</period>
+			<icon>nt_sunny</icon>
+			<title>Tonight</title>
+			<fcttext>Clear. Lows in the lower 50s...except in the mid 50s
+				downtown. Northeast winds 10 to 15 mph. </fcttext>
+		</forecastday>
+		<forecastday>
+			<period>2</period>
+			<icon>sunny</icon>
+			<title>Thursday</title>
+			<fcttext>Sunny. Highs in the lower 70s. Light and variable
+				winds early in the morning becoming northeast around 10 mph in the
+				late morning and afternoon. </fcttext>
+		</forecastday>
+	</txt_forecast>
+	<simpleforecast>
+		<forecastday>
+			<period>1</period>
+			<date>
+				<epoch>1253156419</epoch>
+				<pretty_short>10:00 PM CDT</pretty_short>
+				<pretty>10:00 PM CDT on September 16, 2009</pretty>
+				<day>16</day>
+				<month>9</month>
+				<year>2009</year>
+				<yday>258</yday>
+				<hour>22</hour>
+				<min>00</min>
+				<sec>19</sec>
+				<isdst>1</isdst>
+				<monthname>September</monthname>
+				<weekday_short />
+				<weekday>Wednesday</weekday>
+				<ampm>PM</ampm>
+				<tz_short>CDT</tz_short>
+				<tz_long>America/Chicago</tz_long>
+			</date>
+			<high>
+				<fahrenheit>70</fahrenheit>
+				<celsius>21</celsius>
+			</high>
+			<low>
+				<fahrenheit>54</fahrenheit>
+				<celsius>12</celsius>
+			</low>
+			<conditions>Partly Cloudy</conditions>
+			<icon>partlycloudy</icon>
+			<skyicon>partlycloudy</skyicon>
+			<pop>0</pop>
+		</forecastday>
+
+
+
+
+
+
+		<forecastday>
+			<period>2</period>
+			<date>
+				<epoch>1253242819</epoch>
+				<pretty_short>10:00 PM CDT</pretty_short>
+				<pretty>10:00 PM CDT on September 17, 2009</pretty>
+				<day>17</day>
+				<month>9</month>
+				<year>2009</year>
+				<yday>259</yday>
+				<hour>22</hour>
+				<min>00</min>
+				<sec>19</sec>
+				<isdst>1</isdst>
+				<monthname>September</monthname>
+				<weekday_short />
+				<weekday>Thursday</weekday>
+				<ampm>PM</ampm>
+				<tz_short>CDT</tz_short>
+				<tz_long>America/Chicago</tz_long>
+			</date>
+			<high>
+				<fahrenheit>72</fahrenheit>
+				<celsius>22</celsius>
+			</high>
+			<low>
+				<fahrenheit>56</fahrenheit>
+				<celsius>13</celsius>
+			</low>
+			<conditions>Clear</conditions>
+			<icon>clear</icon>
+			<skyicon>mostlysunny</skyicon>
+			<pop>0</pop>
+		</forecastday>
+
+
+
+
+
+
+		<forecastday>
+			<period>3</period>
+			<date>
+				<epoch>1253318419</epoch>
+				<pretty_short>7:00 PM CDT</pretty_short>
+				<pretty>7:00 PM CDT on September 18, 2009</pretty>
+				<day>18</day>
+				<month>9</month>
+				<year>2009</year>
+				<yday>260</yday>
+				<hour>19</hour>
+				<min>00</min>
+				<sec>19</sec>
+				<isdst>1</isdst>
+				<monthname>September</monthname>
+				<weekday_short />
+				<weekday>Friday</weekday>
+				<ampm>PM</ampm>
+				<tz_short>CDT</tz_short>
+				<tz_long>America/Chicago</tz_long>
+			</date>
+			<high>
+				<fahrenheit>72</fahrenheit>
+				<celsius>22</celsius>
+			</high>
+			<low>
+				<fahrenheit>58</fahrenheit>
+				<celsius>14</celsius>
+			</low>
+			<conditions>Partly Cloudy</conditions>
+			<icon>partlycloudy</icon>
+			<skyicon>partlycloudy</skyicon>
+			<pop>4</pop>
+		</forecastday>
+
+
+
+
+
+
+		<forecastday>
+			<period>4</period>
+			<date>
+				<epoch>1253404819</epoch>
+				<pretty_short>7:00 PM CDT</pretty_short>
+				<pretty>7:00 PM CDT on September 19, 2009</pretty>
+				<day>19</day>
+				<month>9</month>
+				<year>2009</year>
+				<yday>261</yday>
+				<hour>19</hour>
+				<min>00</min>
+				<sec>19</sec>
+				<isdst>1</isdst>
+				<monthname>September</monthname>
+				<weekday_short />
+				<weekday>Saturday</weekday>
+				<ampm>PM</ampm>
+				<tz_short>CDT</tz_short>
+				<tz_long>America/Chicago</tz_long>
+			</date>
+			<high>
+				<fahrenheit>72</fahrenheit>
+				<celsius>22</celsius>
+			</high>
+			<low>
+				<fahrenheit>56</fahrenheit>
+				<celsius>13</celsius>
+			</low>
+			<conditions>Partly Cloudy</conditions>
+			<icon>partlycloudy</icon>
+			<skyicon>partlycloudy</skyicon>
+			<pop>6</pop>
+		</forecastday>
+
+
+
+
+
+
+		<forecastday>
+			<period>5</period>
+			<date>
+				<epoch>1253491219</epoch>
+				<pretty_short>7:00 PM CDT</pretty_short>
+				<pretty>7:00 PM CDT on September 20, 2009</pretty>
+				<day>20</day>
+				<month>9</month>
+				<year>2009</year>
+				<yday>262</yday>
+				<hour>19</hour>
+				<min>00</min>
+				<sec>19</sec>
+				<isdst>1</isdst>
+				<monthname>September</monthname>
+				<weekday_short />
+				<weekday>Sunday</weekday>
+				<ampm>PM</ampm>
+				<tz_short>CDT</tz_short>
+				<tz_long>America/Chicago</tz_long>
+			</date>
+			<high>
+				<fahrenheit>76</fahrenheit>
+				<celsius>24</celsius>
+			</high>
+			<low>
+				<fahrenheit>58</fahrenheit>
+				<celsius>14</celsius>
+			</low>
+			<conditions>Chance of a Thunderstorm</conditions>
+			<icon>chancetstorms</icon>
+			<skyicon>partlycloudy</skyicon>
+			<pop>25</pop>
+		</forecastday>
+
+
+
+
+
+
+		<forecastday>
+			<period>6</period>
+			<date>
+				<epoch>1253577619</epoch>
+				<pretty_short>7:00 PM CDT</pretty_short>
+				<pretty>7:00 PM CDT on September 21, 2009</pretty>
+				<day>21</day>
+				<month>9</month>
+				<year>2009</year>
+				<yday>263</yday>
+				<hour>19</hour>
+				<min>00</min>
+				<sec>19</sec>
+				<isdst>1</isdst>
+				<monthname>September</monthname>
+				<weekday_short />
+				<weekday>Monday</weekday>
+				<ampm>PM</ampm>
+				<tz_short>CDT</tz_short>
+				<tz_long>America/Chicago</tz_long>
+			</date>
+			<high>
+				<fahrenheit>74</fahrenheit>
+				<celsius>23</celsius>
+			</high>
+			<low>
+				<fahrenheit>59</fahrenheit>
+				<celsius>15</celsius>
+			</low>
+			<conditions>Chance of a Thunderstorm</conditions>
+			<icon>chancetstorms</icon>
+			<skyicon>mostlycloudy</skyicon>
+			<pop>30</pop>
+		</forecastday>
+
+
+
+
+
+
+
+
+
+	</simpleforecast>
+	<moon_phase>
+		<percentIlluminated>5</percentIlluminated>
+		<ageOfMoon>27</ageOfMoon>
+		<current_time>
+			<hour>17</hour>
+			<minute>31</minute>
+		</current_time>
+		<sunset>
+			<hour>18</hour>
+			<minute>57</minute>
+		</sunset>
+		<sunrise>
+			<hour>6</hour>
+			<minute>32</minute>
+		</sunrise>
+	</moon_phase>
+</forecast>

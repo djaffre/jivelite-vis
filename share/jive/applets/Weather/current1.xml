@@ -1,0 +1,75 @@
+<current_observation>
+		<credit>Weather Underground NOAA Weather Station</credit>
+		<credit_URL>http://wunderground.com/</credit_URL>
+		<termsofservice link="http://www.wunderground.com/members/tos.asp#api"/>
+		<image>
+		<url>http://icons.wunderground.com/graphics/wu2/logo_130x80.png</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/</link>
+		</image>
+  <display_location>
+  <full>San Francisco International, CA</full>
+  <city>San Francisco International</city>
+  <state>CA</state>
+  <state_name>California</state_name>
+  <country>US</country>
+  <country_iso3166>US</country_iso3166>
+  <zip>94128</zip>
+  <latitude>37.61888885</latitude>
+  <longitude>-122.37472534</longitude>
+  <elevation>1.00000000 ft</elevation>
+  </display_location>
+		<observation_location>
+		<full>San Francisco, California</full>
+		<city>San Francisco</city>
+		<state>California</state>
+		<country>US</country>
+		<country_iso3166>US</country_iso3166>
+		<latitude>37.61999893</latitude>
+		<longitude>-122.37000275</longitude>
+		<elevation>10 ft</elevation>
+		</observation_location>
+		<station_id>KSFO</station_id>
+		<observation_time>Last Updated on September 16, 2:56 PM PDT</observation_time>
+		<observation_time_rfc822>Wed, 16 September 2009 21:56:00 GMT</observation_time_rfc822>
+		<observation_epoch>1253138160</observation_epoch>
+		<local_time>September 16, 3:33 PM PDT</local_time>
+		<local_time_rfc822>Wed, 16 September 2009 22:33:00 GMT</local_time_rfc822>
+		<local_epoch>1253140380</local_epoch>
+		<weather>Partly Cloudy</weather>
+		<temperature_string>72 F (22 C)</temperature_string>
+		<temp_f>72</temp_f>
+		<temp_c>22</temp_c>
+		<relative_humidity>66%</relative_humidity>
+		<wind_string>From the West at 26 MPH Gusting to 32 MPH</wind_string>
+		<wind_dir>West</wind_dir>
+		<wind_degrees>270</wind_degrees>
+		<wind_mph>26</wind_mph>
+		<wind_gust_mph>32</wind_gust_mph>
+		<pressure_string>30.04 in (1017 mb)</pressure_string>
+		<pressure_mb>1017</pressure_mb>
+		<pressure_in>30.04</pressure_in>
+		<dewpoint_string>60 F (16 C)</dewpoint_string>
+		<dewpoint_f>60</dewpoint_f>
+		<dewpoint_c>16</dewpoint_c>
+		
+		<heat_index_string>NA</heat_index_string>
+		<heat_index_f>NA</heat_index_f>
+		<heat_index_c>NA</heat_index_c>
+		
+		
+		<windchill_string>NA</windchill_string>
+		<windchill_f>NA</windchill_f>
+		<windchill_c>NA</windchill_c>
+		
+		<visibility_mi>10.0</visibility_mi>
+		<visibility_km>16.1</visibility_km>
+
+		<icon_url_base>http://icons.wunderground.com/graphics/conds/</icon_url_base>
+		<icon_url_name>.GIF</icon_url_name>
+		<icon>partlycloudy</icon>
+		<forecast_url>http://www.wunderground.com/US/CA/San_Francisco_International.html</forecast_url>
+		<history_url>http://www.wunderground.com/history/airport/KSFO/2009/9/16/DailyHistory.html</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=37.61999893,-122.37000275</ob_url>
+	</current_observation>
+<!-- 0.036:0 -->

@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<forecast>
+	<termsofservice link="http://www.wunderground.com/members/tos.asp#api"/>
+	<txt_forecast>
+  <date/>
+  <number/>
+	</txt_forecast>
+<simpleforecast>
+  <forecastday>
+  <period>1</period>
+  <date>
+  <epoch>1253826000</epoch>
+  <pretty_short>11:00 PM CEST</pretty_short>
+  <pretty>11:00 PM CEST on September 24, 2009</pretty>
+  <day>24</day>
+  <month>9</month>
+  <year>2009</year>
+  <yday>266</yday>
+  <hour>23</hour>
+  <min>00</min>
+  <sec>0</sec>
+  <isdst>1</isdst>
+  <monthname>September</monthname>
+  <weekday_short/>
+  <weekday>Thursday</weekday>
+  <ampm>PM</ampm>
+  <tz_short>CEST</tz_short>
+  <tz_long>Europe/Berlin</tz_long>
+</date>
+            <high>
+              <fahrenheit>66</fahrenheit>
+              <celsius>19</celsius>
+            </high>
+            <low>
+              <fahrenheit>46</fahrenheit>
+              <celsius>8</celsius>
+            </low>
+            <conditions>Haze</conditions>
+            <icon>hazy</icon>
+            <skyicon>partlycloudy</skyicon>
+			<pop/>
+        </forecastday>
+
+
+
+
+
+
+        <forecastday>
+            <period>2</period>
+            <date>
+  <epoch>1253912400</epoch>
+  <pretty_short>11:00 PM CEST</pretty_short>
+  <pretty>11:00 PM CEST on September 25, 2009</pretty>
+  <day>25</day>
+  <month>9</month>
+  <year>2009</year>
+  <yday>267</yday>
+  <hour>23</hour>
+  <min>00</min>
+  <sec>0</sec>
+  <isdst>1</isdst>
+  <monthname>September</monthname>
+  <weekday_short/>
+  <weekday>Friday</weekday>
+  <ampm>PM</ampm>
+  <tz_short>CEST</tz_short>
+  <tz_long>Europe/Berlin</tz_long>
+</date>
+            <high>
+              <fahrenheit>66</fahrenheit>
+              <celsius>19</celsius>
+            </high>
+            <low>
+              <fahrenheit>48</fahrenheit>
+              <celsius>9</celsius>
+            </low>
+            <conditions>Partly Cloudy</conditions>
+            <icon>partlycloudy</icon>
+            <skyicon>partlycloudy</skyicon>
+			<pop/>
+        </forecastday>
+
+
+
+
+
+
+        <forecastday>
+            <period>3</period>
+            <date>
+  <epoch>1253998800</epoch>
+  <pretty_short>11:00 PM CEST</pretty_short>
+  <pretty>11:00 PM CEST on September 26, 2009</pretty>
+  <day>26</day>
+  <month>9</month>
+  <year>2009</year>
+  <yday>268</yday>
+  <hour>23</hour>
+  <min>00</min>
+  <sec>0</sec>
+  <isdst>1</isdst>
+  <monthname>September</monthname>
+  <weekday_short/>
+  <weekday>Saturday</weekday>
+  <ampm>PM</ampm>
+  <tz_short>CEST</tz_short>
+  <tz_long>Europe/Berlin</tz_long>
+</date>
+            <high>
+              <fahrenheit>68</fahrenheit>
+              <celsius>20</celsius>
+            </high>
+            <low>
+              <fahrenheit>50</fahrenheit>
+              <celsius>10</celsius>
+            </low>
+            <conditions>Partly Cloudy</conditions>
+            <icon>partlycloudy</icon>
+            <skyicon>sunny</skyicon>
+			<pop/>
+        </forecastday>
+
+
+
+
+
+
+        <forecastday>
+            <period>4</period>
+            <date>
+  <epoch>1254085200</epoch>
+  <pretty_short>11:00 PM CEST</pretty_short>
+  <pretty>11:00 PM CEST on September 27, 2009</pretty>
+  <day>27</day>
+  <month>9</month>
+  <year>2009</year>
+  <yday>269</yday>
+  <hour>23</hour>
+  <min>00</min>
+  <sec>0</sec>
+  <isdst>1</isdst>
+  <monthname>September</monthname>
+  <weekday_short/>
+  <weekday>Sunday</weekday>
+  <ampm>PM</ampm>
+  <tz_short>CEST</tz_short>
+  <tz_long>Europe/Berlin</tz_long>
+</date>
+            <high>
+              <fahrenheit>72</fahrenheit>
+              <celsius>22</celsius>
+            </high>
+            <low>
+              <fahrenheit>48</fahrenheit>
+              <celsius>9</celsius>
+            </low>
+            <conditions>Clear</conditions>
+            <icon>clear</icon>
+            <skyicon>mostlysunny</skyicon>
+			<pop/>
+        </forecastday>
+
+
+
+
+
+
+        <forecastday>
+            <period>5</period>
+            <date>
+  <epoch>1254171600</epoch>
+  <pretty_short>11:00 PM CEST</pretty_short>
+  <pretty>11:00 PM CEST on September 28, 2009</pretty>
+  <day>28</day>
+  <month>9</month>
+  <year>2009</year>
+  <yday>270</yday>
+  <hour>23</hour>
+  <min>00</min>
+  <sec>0</sec>
+  <isdst>1</isdst>
+  <monthname>September</monthname>
+  <weekday_short/>
+  <weekday>Monday</weekday>
+  <ampm>PM</ampm>
+  <tz_short>CEST</tz_short>
+  <tz_long>Europe/Berlin</tz_long>
+</date>
+            <high>
+              <fahrenheit>70</fahrenheit>
+              <celsius>21</celsius>
+            </high>
+            <low>
+              <fahrenheit>45</fahrenheit>
+              <celsius>7</celsius>
+            </low>
+            <conditions>Mostly Cloudy</conditions>
+            <icon>mostlycloudy</icon>
+            <skyicon>mostlycloudy</skyicon>
+			<pop/>
+        </forecastday>
+
+
+
+
+
+
+        <forecastday>
+            <period>6</period>
+            <date>
+  <epoch>1254258000</epoch>
+  <pretty_short>11:00 PM CEST</pretty_short>
+  <pretty>11:00 PM CEST on September 29, 2009</pretty>
+  <day>29</day>
+  <month>9</month>
+  <year>2009</year>
+  <yday>271</yday>
+  <hour>23</hour>
+  <min>00</min>
+  <sec>0</sec>
+  <isdst>1</isdst>
+  <monthname>September</monthname>
+  <weekday_short/>
+  <weekday>Tuesday</weekday>
+  <ampm>PM</ampm>
+  <tz_short>CEST</tz_short>
+  <tz_long>Europe/Berlin</tz_long>
+</date>
+            <high>
+              <fahrenheit>55</fahrenheit>
+              <celsius>13</celsius>
+            </high>
+            <low>
+              <fahrenheit>39</fahrenheit>
+              <celsius>4</celsius>
+            </low>
+            <conditions>Chance of Rain</conditions>
+            <icon>chancerain</icon>
+            <skyicon>partlycloudy</skyicon>
+			<pop/>
+        </forecastday>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</simpleforecast>
+<moon_phase>
+        <percentIlluminated>35</percentIlluminated>
+        <ageOfMoon>6</ageOfMoon>
+		<current_time>
+			<hour>16</hour>
+			<minute>09</minute>
+		</current_time>
+        <sunset>
+            <hour>19</hour>
+            <minute>00</minute>
+        </sunset>
+        <sunrise>
+            <hour>6</hour>
+            <minute>56</minute>
+        </sunrise>
+</moon_phase>
+</forecast>

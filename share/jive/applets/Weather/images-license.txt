@@ -1,0 +1,48 @@
+All images are taken from Wikimedia-commons and are distibuted under different licenses. 
+Please see license-descriptions and full URLs below.
+
+-----------------
+The following images were release to the public domain by the 'Tango! Desktop Project' (http://tango.freedesktop.org/Tango_Desktop_Project)
+The Tango! Desktop Project grants anyone the right to use this work for any purpose, without any conditions, unless such conditions are required by law.
+
+http://commons.wikimedia.org/wiki/File:Weather-clear-night.svg
+http://commons.wikimedia.org/wiki/File:Weather-clear.svg
+http://commons.wikimedia.org/wiki/File:Weather-few-clouds-night.svg
+http://commons.wikimedia.org/wiki/File:Weather-few-clouds.svg
+http://commons.wikimedia.org/wiki/File:Weather-overcast.svg
+http://commons.wikimedia.org/wiki/File:Weather-rain-thunderstorm.svg
+http://commons.wikimedia.org/wiki/File:Weather-severe-alert.svg
+http://commons.wikimedia.org/wiki/File:Weather-showers-scattered.svg
+http://commons.wikimedia.org/wiki/File:Weather-showers.svg
+http://commons.wikimedia.org/wiki/File:Weather-sleet.svg
+http://commons.wikimedia.org/wiki/File:Weather-snow.svg
+http://commons.wikimedia.org/wiki/File:Weather-storm.svg
+---------------
+
+The following images are derivative work of the Tango-Images done by Betrand Grondin.
+They are released under the Creative Commons Attribution ShareAlike 2.5 License (http://creativecommons.org/licenses/by-sa/2.5/). 
+In short: you are free to share and make derivative works of the file under the conditions that you appropriately attribute it, and that you distribute it only under a license identical to this one. 
+
+http://commons.wikimedia.org/wiki/File:Weather-day-more-fog.svg
+http://commons.wikimedia.org/wiki/File:Weather-day-small-fog.svg
+http://commons.wikimedia.org/wiki/File:Weather-day-veiled.svg
+http://commons.wikimedia.org/wiki/File:Weather-drizzle.svg
+http://commons.wikimedia.org/wiki/File:Weather-hail-scattered.svg
+http://commons.wikimedia.org/wiki/File:Weather-heavy-fog.svg
+http://commons.wikimedia.org/wiki/File:Weather-heavy-overcast.svg
+http://commons.wikimedia.org/wiki/File:Weather-more-clouds-night.svg
+http://commons.wikimedia.org/wiki/File:Weather-more-clouds.svg
+http://commons.wikimedia.org/wiki/File:Weather-more-fog-night.svg
+http://commons.wikimedia.org/wiki/File:Weather-overcast-rare-showers.svg
+http://commons.wikimedia.org/wiki/File:Weather-small-fog-night.svg
+http://commons.wikimedia.org/wiki/File:Weather-small-fog.svg
+http://commons.wikimedia.org/wiki/File:Weather-snowy.svg
+http://commons.wikimedia.org/wiki/File:Weather-storm-hail.svg
+http://commons.wikimedia.org/wiki/File:Weather-sun-clouds-hard-shower.svg
+http://commons.wikimedia.org/wiki/File:Weather-sun-clouds-some-rain.svg
+http://commons.wikimedia.org/wiki/File:Weather-sun-clouds-sudden-shower.svg
+http://commons.wikimedia.org/wiki/File:Weather-sun-thorm-shower.svg
+http://commons.wikimedia.org/wiki/File:Weather-sun-thorm.svg
+http://commons.wikimedia.org/wiki/File:Weather-sun-unsettled.svg
+http://commons.wikimedia.org/wiki/File:Weather-violent-storm.svg
+--------
