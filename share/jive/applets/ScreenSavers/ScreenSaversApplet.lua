@@ -76,7 +76,7 @@ function init(self, ...)
 
 	-- wait for at least a minute after we start before activating a screensaver,
 	-- otherwise the screensaver may have started when you exit the bootscreen
-	self.timer = Timer(60000, function() self:_activate() end, true)
+	self.timer = Timer(30000, function() self:_activate() end, true)
 	self.timer:start()
 
 	self.defaultSettings = self:getDefaultSettings()

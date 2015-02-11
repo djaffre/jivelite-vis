@@ -55,7 +55,7 @@ function _layout(self)
 	self.player = appletManager:callService("getCurrentPlayer")
 
 	-- When used in NP screen _layout gets called with strange values
-	if (w <= 0 or w > 480) and (h <= 0 or h > 272) then
+	if (w <= 0 or w > 700) and (h <= 0 or h > 396) then
 		return
 	end
 
