@@ -1,7 +1,7 @@
 # Jivelite makefile
 
 # set PREFIX for location of luajit include and libs
-PREFIX ?= /usr/local
+PREFIX ?= /usr/
 
 all: srcs libs
 

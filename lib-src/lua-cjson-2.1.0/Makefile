@@ -13,7 +13,7 @@
 ##### Build defaults #####
 LUA_VERSION =       5.1
 TARGET =            cjson.so
-PREFIX =            /usr/local
+PREFIX =            /usr
 #CFLAGS =            -g -Wall -pedantic -fno-inline
 CFLAGS =            -O3 -Wall -pedantic -DNDEBUG
 CJSON_CFLAGS =      -fpic
